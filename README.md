@@ -1,5 +1,6 @@
 ## Projeto Aircnc - OminiStack 09
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84e643d6-9be1-4867-9647-6f3e54c32ccf/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84e643d6-9be1-4867-9647-6f3e54c32ccf/Untitled.png)
+
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84e643d6-9be1-4867-9647-6f3e54c32ccf/Untitled.png" width="200"> 
 
 ## Sobre o projeto
 
