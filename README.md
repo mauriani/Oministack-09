@@ -1,6 +1,6 @@
 ## Projeto Aircnc - OminiStack 09
 
-<img src="https://raw.githubusercontent.com/rocketseat-education/semana-omnistack-9/master/.github/aircnc.png" width="200"> 
+<img src="https://raw.githubusercontent.com/rocketseat-education/semana-omnistack-9/master/.github/aircnc.png"> 
 
 ## Sobre o projeto
 
